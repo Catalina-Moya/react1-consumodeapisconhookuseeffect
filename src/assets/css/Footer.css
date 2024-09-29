@@ -2,10 +2,9 @@ footer {
     margin-top: 70px;
 }
 .footer-container {
-    background-color: #bcc3ca;
-    color: white;
+    background-color: #353535;
+    color: rgb(255, 255, 255);
     text-align: center;
-    padding-top: 0.5rem;
     padding: 30px;
 }
 

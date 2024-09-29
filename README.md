@@ -1,1 +1,1 @@
-# Hito 1 - Introducción a React
+# Hito 2 - Pizzería Mamma Mía
